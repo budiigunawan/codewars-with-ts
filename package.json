@@ -1,12 +1,19 @@
 {
   "name": "codewars-training",
   "version": "1.0.0",
-  "description": "codewars training",
+  "description": "Solutions collection of my codewars submissions in TypeScript",
   "main": "index.js",
   "scripts": {
     "test": "jest --watch"
   },
-  "author": "Budi Gunawan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budiigunawan/codewars-with-ts.git"
+  },
+  "keywords": [
+    "leetcode", "typescript"
+  ],
+  "author": "budiigunawan",
   "license": "ISC",
   "devDependencies": {
     "@jest/globals": "^29.7.0",
